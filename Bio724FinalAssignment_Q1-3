@@ -1,0 +1,16 @@
+Bio724D Final Project Draft (Q1-3)
+1. Propose a complex computational or data analysis challenge that you anticipate you will face in the context of your research. 
+  a. I will likely have a lot of population genetics data to work with at some point in my project. I’ll be looking at population fst, differentially expressed genes, and a few other things within two species along their range and then also comparing a bacterial genome to       the two species of urchins along the range as well. 
+2. Describe the scientific motivation of the analysis you propose. 
+  a. We work with two species of urchins that are closely related but about 5 myathere was a divergence that led to one species being a planktotrophic urchin (small eggs, feeding larvae) and one species being a lecithotrophic urchin (large eggs, non-feeding larvae,       
+     accelerated development). Leveraging this system to study development, I want to look at population data to see if a lot of the differences we see between the species genetically are different in the regions where both species overlap (allopatry) versus where only 
+     the lecithotrophic urchins exist (sympatry). Additionally, there are some sex ratio inconsistencies in the region of overlap versus no overlap that I’d like to explore. It is possible that some of this is do to a symbiotic bacteria that adds another layer to the 
+     analysis. 
+3. Include a link and description to one or more exemplar data sets and published analysis that are similar in goals and scale to what you’re proposing. Where appropriate, point out key differences or novel aspects of what you hope to achieve. 
+  a. Willemsen Detal. (2020). Intra-species differences in population size shape life history and genome evolution. eLife 9:e55794 
+    i. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7462614/ 
+    ii. Data Citations: 
+      1. Cui R, Willemsen D, Valenzano DR. 2020. Nothobranchius furzeri assembly 2.0. NCBI BioProject. PRJNA599375 
+      2. Willemsen D, Valenzano DR. 2020. Pooled whole genomesequencing andindividual resequencing of wild-caught Nothobranchius furzeri. NCBI BioProject. PRJNA627180 
+  This paper gets into detail on both population genetics and mappingof sex QTLmarkers (related to another piece of myproject) and looks at different life history traits. Although this paper only works within a single species, I would be doing these analyses within 2     
+  species but then also comparing between them.
