@@ -23,5 +23,3 @@ Can we make hybrids with other erythrogramma populations easier???? (Pre-Zygotic
 mtDNA sequencing??? 
 
 
-## Citations Available in "Citations" Directory
-
